@@ -26,9 +26,3 @@ Here are some ideas to get you started:
 - [My Dotfiles](https://github.com/TheGreatMcPain/dotfiles)
 
 - [My Blog (I know there's not much there)](https://thegreatmcpain.gitlab.io/blog/)
-
-### My Crypto Addresses
-
-| Coin | Address |
-| :--- | :------ |
-| TBD  | TBD     |
